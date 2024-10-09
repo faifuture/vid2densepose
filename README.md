@@ -34,6 +34,7 @@ To utilize this tool, ensure the installation of:
     ```bash
     pip install -r requirements.txt
     ```
+    (Comment out line 5 in requirements.txt, then run this command to install. After step 3, uncomment it and rerun the command.)
 
 3. Clone the Detectron repository:
     ```bash
